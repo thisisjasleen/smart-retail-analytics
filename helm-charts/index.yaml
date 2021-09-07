@@ -3,12 +3,12 @@ entries:
   smart-retail-analytics:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-06T15:35:18.133607731+05:30"
+    created: "2021-09-07T10:38:12.953006345+05:30"
     description: A Helm chart for Kubernetes
-    digest: 84a0413f990dbb4bfc571f699539837d740d8565e6190b77f4d8764f0a5e1c28
+    digest: 6c30cf443c7a523df872aa39e7f519a84bf765ff50bf9c614e95a7f615134576
     name: smart-retail-analytics
     type: application
     urls:
     - https://thisisjasleen.github.io/smart-retail-analytics/helm-charts/smart-retail-analytics-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-06T15:35:18.131813658+05:30"
+generated: "2021-09-07T10:38:12.945629163+05:30"
